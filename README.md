@@ -8,7 +8,7 @@ This project was completed during my Data Analyst Internship at Yuva Intern. The
 - SQL
 - Power BI
 - Data Cleaning
-- Data Visualization## 📂 Repository Structure
+- Data Visualization
 
 Dataset/
 README.md
